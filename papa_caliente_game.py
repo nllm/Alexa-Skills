@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" simple fact sample app """
+
 
 from __future__ import print_function
 
